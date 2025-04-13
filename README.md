@@ -9,7 +9,7 @@
 - rajeshsaha-bs23
 
 ## Project Description
-Add your project description here.
+It is an Inventory Management System project.
 
 ## Getting Started
 1. Clone the repository
